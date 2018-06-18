@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">QLTC</string>
+    <string name="information">Infomation</string>
+    <string name="setting">Setting</string>
+    <string name="add">Add</string>
+    <string name="find">Find</string>
+    <string name="help">Help</string>
+    <string name="feedback">Feedback</string>
+    <string name="title_activity_settings" translatable="false">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general" translatable="false">General</string>
+
+    <string name="pref_title_social_recommendations" translatable="false">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations" translatable="false">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name" translatable="false">Display name</string>
+    <string name="pref_default_display_name" translatable="false">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages" translatable="false">Add friends to messages</string>
+    <string-array name="pref_example_list_titles" translatable="false">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values" translatable="false">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync" translatable="false">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency" translatable="false">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles" translatable="false">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values" translatable="false">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries" translatable="false">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings" translatable="false">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications" translatable="false">Notifications</string>
+
+    <string name="pref_title_new_message_notifications" translatable="false">New message notifications</string>
+
+    <string name="pref_title_ringtone" translatable="false">Ringtone</string>
+    <string name="pref_ringtone_silent" translatable="false">Silent</string>
+
+    <string name="pref_title_vibrate" translatable="false">Vibrate</string>
+    <string name="wallet">Wallet</string>
+    <string name="Add_Money">Add Money</string>
+    <string name="Spending">Spending</string>
+    <string name="Look_up">Look up</string>
+    <string name="List_walllet">List of Wallet\'s Money</string>
+    <string name="The_remaining_amount">The remaining amount</string>
+    <string name="Add_wallet">Add new wallet</string>
+    <string name="Wallet_name">Wallet\'s Name</string>
+    <string name="Starting_amount">Starting Amount</string>
+    <string name="Save">save</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Please_completed_information">Please complete your information!Thank you!</string>
+    <string name="Add_wallet_success">Added</string>
+    <string name="Add_new_money">Add new Money</string>
+    <string name="Chose_wallet">Choose a wallet</string>
+    <string name="Money">Money</string>
+    <string name="Unit">unit</string>
+    <string name="Add_many">Add many</string>
+    <string name="updated">Updated</string>
+    <string name="Finish">Finish</string>
+    <string name="Delete_all">Delete All</string>
+    <string name="Add_new_spending">Add new spending</string>
+    <string name="Chose_type_of_money">Chose Type of Money</string>
+    <string name="Food">Food</string>
+    <string name="Shopping">Shopping</string>
+    <string name="Electric_water">Electric/Water</string>
+    <string name="House_rent">Rent House</string>
+    <string name="Internet">Internet</string>
+    <string name="Capble_TV">Cable Television</string>
+    <string name="Back">Back</string>
+    <string name="Insert_detail_info">Insert Detail Information</string>
+    <string name="shopping_name">Shopping\'s Name</string>
+    <string name="list_shopping">List of shopping</string>
+    <string name="Language">Language</string>
+    <string name="Notifacation">Notification</string>
+    <string name="Show_info_lookup">Show information to look up</string>
+    <string name="default_wallet">Default Wallet</string>
+    <string name="default_unit">Default Unit</string>
+    <string name="default_time">Default Time</string>
+    <string name="TypeMoney">Type of Money</string>
+    <string name="Date">Date</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="new_Spending">Add a new Action</string>
+    <string name="Action_name">Action\'s Name</string>
+    <string name="money_in_day">Money in day</string>
+    <string name="other">Other</string>
+    <string name="Empty">Empty</string>
+    <string name="list_food">List Food</string>
+    <string name="list_other">List Other</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="Status">Status</string>
+    <string name="MoneyCount">Total Monney:</string>
+    <string name="SpendingCount">Total Spending</string>
+    <string name="Rest">Rest</string>
+    <string name="Condition">conditions</string>
+    <string name="Time">time</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+</resources>
